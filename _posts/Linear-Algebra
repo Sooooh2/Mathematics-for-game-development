@@ -1,0 +1,12 @@
+---
+title: "Linear Algebra"
+layout: single
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - notice
+---
+Linear algebra is the branch of mathematics concerned with linear equations and their representations using vectors and matrices. It plays a fundamental role in game development — from graphics transformations to physics, AI, and animation systems.
+1. Linear Equations and Systems
+A system of m linear equations in n unknowns x<sub>1</sub>,x2,…,xnx_1, x_2, \ldots, x_nx1​,x2​,…,xn​ looks like:

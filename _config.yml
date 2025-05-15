@@ -17,6 +17,7 @@ title: Maths for game development
 email:
 description: >- # this means to ignore newlines until "baseurl:"
    Exploring the intersection of math and game development
+mathjax: true
 
 twitter_username: username
 github_username: username
